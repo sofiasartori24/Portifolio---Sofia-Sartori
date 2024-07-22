@@ -6,3 +6,7 @@ Welcome to my iOS development portfolio! Here you will find a collection of my l
 
 Cappy is a dynamic habit tracker that leverages gamification to motivate users in building and maintaining healthy habits. Developed using SwiftUI, Cappy ensures a seamless and engaging user experience. For data persistence, it utilizes UserDefaults, making the app efficient and reliable. With its intuitive design and interactive features, Cappy transforms habit tracking into an enjoyable journey.
 
+# [Lttles](https://apps.apple.com/br/app/littles/id6470848894?l=en-GB)
+
+Littles is a fun virtual pet game, that explores the dinamics of feeding your , giving a bath, changing clothes, etc. Developed using SwiftUI and SpriteKit. For Data persistence, it utilizes mainly Core Data, but also UserDefaults. 
+
